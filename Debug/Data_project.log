@@ -1,0 +1,12 @@
+﻿  Commit.cpp
+  File.cpp
+  FollowerNode.cpp
+  Graph.cpp
+  main.cpp
+  Repositories.cpp
+C:\Users\Muhammad Saad\source\repos\Data_project\Data_project\Repositories.cpp(288,9): warning C4101: 'followers': unreferenced local variable
+  Respository.cpp
+  Sighin.cpp
+  Vertex.cpp
+  Generating Code...
+  Data_project.vcxproj -> C:\Users\Muhammad Saad\source\repos\Data_project\Debug\Data_project.exe
